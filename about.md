@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+男、85后、程序员，性格内向、不善言语、内心火热、好读书。
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[765350744@qq.com](mailto:765350744@qq.com)
